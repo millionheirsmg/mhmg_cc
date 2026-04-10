@@ -1,0 +1,81 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:xumo="http://www.xumo.com/rss/extensions/" xmlns:version="2.0" xmlns:dcterms="http://purl.org/dc/terms/" version="1.0">
+<channel>
+<pubDate>2026-04-10</pubDate>
+<title>ARTV MRSS Feed</title>
+<description/>
+
+<item>
+<!-- This is TV Show/Series Item  -->
+<guid isPermaLink="false">mhmg-trauma-series-01</guid>
+<xumo:episodic type="series"/>
+<title>T.R.A.U.M.A Series</title>
+<description>Faith-based testimony and healing-focused episodic series presented by ARTV / MHMG.</description>
+<pubDate>2026</pubDate>
+<media:thumbnail medium="image" width="1920" height="1080" type="image/png" url="https://raw.githubusercontent.com/millionheirsmg/mhmg_cc/7951715965df86da94eb073e4f76cb5bb0e7a1ce/Backgroung%20_notxt.png"/>
+<media:thumbnail medium="image" width="1920" height="1080" type="image/png" url="https://raw.githubusercontent.com/millionheirsmg/mhmg_cc/7951715965df86da94eb073e4f76cb5bb0e7a1ce/main%20.png"/>
+<start xmlns="">2026-04-13T00:00:00Z</start>
+<end xmlns="">2031-04-15T00:00:00Z</end>
+</item>
+
+<item>
+<guid isPermaLink="false">mhmg-trauma-s01e01</guid>
+<tmsId>MHMG-trauma-s01e01</tmsId>
+<secondaryIDs>
+<secondaryID type="Internal">MHMG-trauma-s01e01</secondaryID>
+<secondaryID type="Media">21494</secondaryID>
+</secondaryIDs>
+<media:title type="plain">Dropped</media:title>
+<media:description>Trouble. Ridicule. Adversity. Usage. Misunderstanding. Affliction.</media:description>
+<pubDate>2026</pubDate>
+<media:category scheme="https://www.xumo.com">Faith &amp; Spirituality</media:category>
+<media:content medium="video" duration="2201" bitrate="5000" height="1080" width="1920" url="https://artv.nowcast.cc/video/21494"/>
+<media:thumbnail medium="image" width="1920" height="1080" type="image/png" url="https://raw.githubusercontent.com/millionheirsmg/mhmg_cc/7951715965df86da94eb073e4f76cb5bb0e7a1ce/Dropped_image.png"/>
+<media:group>
+<media:subTitle type="text/webvtt" lang="en-US" href="https://raw.githubusercontent.com/millionheirsmg/mhmg_cc/main/trauma_ep1.vtt"/>
+</media:group>
+<media:rating scheme="urn:v-chip">TV-PG</media:rating>
+<airDates>
+<aired>2026-01-27T00:00:00Z</aired>
+</airDates>
+<start xmlns="">2026-04-13T00:00:00Z</start>
+<end xmlns="">2031-04-14T00:00:00Z</end>
+<xumo:cuePoints>600-660,1200-1260,1800-1860</xumo:cuePoints>
+<xumo:episodic type="episode">
+<xumo:seriesId>mhmg-trauma-series-01</xumo:seriesId>
+<xumo:seasonNum>1</xumo:seasonNum>
+<xumo:episodeNum>1</xumo:episodeNum>
+</xumo:episodic>
+</item>
+
+<item>
+<guid isPermaLink="false">mhmg-trauma-s01e02</guid>
+<tmsId>MHMG-trauma-s01e02</tmsId>
+<secondaryIDs>
+<secondaryID type="Internal">MHMG-trauma-s01e02</secondaryID>
+<secondaryID type="Media">21497</secondaryID>
+</secondaryIDs>
+<media:title type="plain">Betrayed</media:title>
+<media:description>Trouble. Ridicule. Adversity. Usage. Misunderstanding. Affliction.</media:description>
+<pubDate>2026</pubDate>
+<media:category scheme="https://www.xumo.com">Faith &amp; Spirituality</media:category>
+<media:content medium="video" duration="2932" bitrate="5000" height="1080" width="1920" url="https://artv.nowcast.cc/video/21497"/>
+<media:thumbnail medium="image" width="1920" height="1080" type="image/png" url="https://raw.githubusercontent.com/millionheirsmg/mhmg_cc/7951715965df86da94eb073e4f76cb5bb0e7a1ce/betrayed_image.png"/>
+<media:group>
+<media:subTitle type="text/webvtt" lang="en-US" href="https://raw.githubusercontent.com/millionheirsmg/mhmg_cc/main/trauma_ep2.vtt"/>
+</media:group>
+<media:rating scheme="urn:v-chip">TV-PG</media:rating>
+<airDates>
+<aired>2026-01-28T00:00:00Z</aired>
+</airDates>
+<start xmlns="">2026-04-14T00:00:00Z</start>
+<end xmlns="">2031-04-15T00:00:00Z</end>
+<xumo:cuePoints>900-960,1800-1860,2400-2460</xumo:cuePoints>
+<xumo:episodic type="episode">
+<xumo:seriesId>mhmg-trauma-series-01</xumo:seriesId>
+<xumo:seasonNum>1</xumo:seasonNum>
+<xumo:episodeNum>2</xumo:episodeNum>
+</xumo:episodic>
+</item>
+
+</channel>
+</rss>
